@@ -1,0 +1,8 @@
+name: Layer Exporter
+version: 0.1.0
+id: reearth-plugin-toolbox-layerexporter
+extensions:
+  - id: layerexporter
+    type: widget
+    name: Layer Exporter
+
