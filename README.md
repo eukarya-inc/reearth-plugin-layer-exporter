@@ -16,16 +16,16 @@
   - Theme：ウィジェットのテーマカラーをDarkかLightから選択することができます。
   - Backgroung Color：ウィジェットの背景色を変更することができます。これを設定している場合、Themeの設定内容は無視されます。
   - Primary Color：Exportボタンの色を変更することができます。これを設定している場合、Themeの設定内容は無視されます。
-    ![](src/img1.png)
+    ![](https://eukarya-inc.github.io/reearth-plugin-layer-exporter/src/img1.png)
 
     (左：ThemeをDark、中央：ThemeをLight、右：BackgroundColorとPrimary Colorを指定)
-    ![](src/img2.png)
+    ![](https://eukarya-inc.github.io/reearth-plugin-layer-exporter/src/img2.png)
 
 ### プラグインの操作方法
-  ![](src/img4.png)
+  ![](https://eukarya-inc.github.io/reearth-plugin-layer-exporter/src/img4.png)
 - Exportボタンを押すとレイヤーの情報をCSVファイルとして書き出します。出力されるCSVファイルの内容にはレイヤ名、経度、緯度などの情報の他、右パネルで設定した項目内容が出力されます。
   
-  ![](src/img3.png)
+  ![](https://eukarya-inc.github.io/reearth-plugin-layer-exporter/src/img3.png)
 
 - ファイル名は reearth-layers-xxxxxxx.csvの形式で作成されます。
 
