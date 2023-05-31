@@ -42,7 +42,7 @@
 
 このプラグインは、Re:Earth公式プラグインです。
 
- ![](https://eukarya-inc.github.io/reearth-plugin-shinsuiNavi/src/logo-3.png)
+ ![](https://eukarya-inc.github.io/reearth-plugin-layer-exporter/src/logo-3.png)
 
 ソースコードはこちら(https://github.com/airslice/reearth-plugin-layer-exporter)
 
