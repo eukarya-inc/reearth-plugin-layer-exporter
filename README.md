@@ -2,7 +2,8 @@
 
 ![test reearth dev_published html_alias=dbajbgegie(1440 desktop) (1)](https://user-images.githubusercontent.com/21994748/183613180-3a4050d5-9627-41b3-9368-cc72c6b98812.png)
 
-<img width="1383" alt="WX20220809-171914@2x" src="https://user-images.githubusercontent.com/21994748/183613199-4bb42074-1fdd-43e5-b228-8130fbd496d5.png">
+![](https://user-images.githubusercontent.com/21994748/183613199-4bb42074-1fdd-43e5-b228-8130fbd496d5.png)
+
 
 ## このプラグインについて
 - Layer Exporter プラグインではレイヤー情報をファイルに出力することができます。<br>
@@ -16,6 +17,7 @@
   - Theme：ウィジェットのテーマカラーをDarkかLightから選択することができます。
   - Backgroung Color：ウィジェットの背景色を変更することができます。これを設定している場合、Themeの設定内容は無視されます。
   - Primary Color：Exportボタンの色を変更することができます。これを設定している場合、Themeの設定内容は無視されます。
+  
     ![](https://eukarya-inc.github.io/reearth-plugin-layer-exporter/src/img1.png)
 
     (左：ThemeをDark、中央：ThemeをLight、右：BackgroundColorとPrimary Colorを指定)
